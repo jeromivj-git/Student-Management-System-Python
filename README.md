@@ -52,3 +52,9 @@ This system allows users to add, update, delete, search, and analyze student dat
 ---
 
 ## 📁 Project Structure
+
+Student-Management-System-Python/
+│
+├── main.py # Main application file
+├── students.xlsx # Excel data file (auto-generated)
+└── README.md # Project documentation
